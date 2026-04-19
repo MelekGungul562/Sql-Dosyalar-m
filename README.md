@@ -1,2 +1,2 @@
-# Sql-Dosyalar-m
-Sorgu dosyalarım
+# Sql-Dosyalarım
+Microsoft Azure Data Sorgu dosyalarım
